@@ -1,0 +1,40 @@
+#notices {
+    min-height: 100vh;
+    padding-top: 100px;
+    background-color: white;
+}
+.parametros-n {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    
+}
+.display {
+    display: inline-block;
+}
+.image-no {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    max-width: 100%;
+    justify-content: space-between;
+    
+}
+.lista-no {
+    justify-content: start;
+    width: 50%;
+    padding-top: 50px;
+}
+.container-no {
+    width: 90%;
+    height: 100%;
+    margin: 0 5%;
+    
+}
+.grey:hover {
+    background: grey;
+    color: white;
+    height: 20px;
+    width: 50px;
+    font-family: 'Rubik', sans-serif;
+}

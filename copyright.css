@@ -1,0 +1,13 @@
+.flex-c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:70px;
+    width: 100%;
+    padding: 0 100px;
+    background-color: #444040;
+    color: white;
+}
+.color-c {
+    color: white;
+}

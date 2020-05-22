@@ -1,0 +1,49 @@
+
+#intro-w {
+    min-height: 100vh;
+    padding-top: 100px;
+    background-color: white;
+    
+}
+.justify-center-w {
+    justify-content: center;
+}
+.align-center-w {
+    align-items: center;
+}
+.text-center-w {
+    text-align: center;
+}
+.padding-w {
+    padding: 10px;
+}
+.lista {
+    display: inline-block;
+    
+}
+.container-w {
+    width: 90%;
+    height: 100%;
+    margin: 0 5%;
+    
+}
+.row-w {
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-w {
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    max-width: 100%;
+}
+.button {
+    margin-top: 70px;
+    height: 50px;
+    width: 150px;
+    border: solid grey;
+}
+.margin-w {
+    margin-top: 30px;
+}

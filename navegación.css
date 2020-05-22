@@ -1,0 +1,30 @@
+
+nav li {
+    display: inline-block;
+    
+    background-color: rgb(249, 248, 247);
+    padding-right: 100px;
+  }
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:100px;
+    width: 100%;
+    position: relative;
+    padding: 0 100px;
+    position: fixed;
+    background-color: rgb(249, 248, 247);
+}
+.image {
+    height: 100px;
+    width: 100px;
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/logo-black.png');
+    background-position: center;
+    background-size: cover;
+    
+  }
+.text-center {
+    text-align: center;
+    
+}
